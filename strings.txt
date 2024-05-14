@@ -1,0 +1,7 @@
+"\nEnter a filename: "
+"\nError in filename."
+"Facebook friend recommendation.\n"
+"\nEnter an integer in the range 0 to {}:"
+"\nError: input must be an int between 0 and {}"
+"\nThe suggested friend for {} is {}"
+"\nDo you want to continue (yes/no)? "

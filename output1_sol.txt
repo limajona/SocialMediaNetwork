@@ -1,0 +1,23 @@
+Facebook friend recommendation.
+
+
+Enter a filename: small_network_data.txt
+
+
+Enter an integer in the range 0 to 9: 0
+
+The suggested friend for 0 is 9
+
+Do you want to continue (yes/no)? yes
+
+Enter an integer in the range 0 to 9: 3
+
+The suggested friend for 3 is 1
+
+Do you want to continue (yes/no)? yes
+
+Enter an integer in the range 0 to 9: 8
+
+The suggested friend for 8 is 1
+
+Do you want to continue (yes/no)? No

@@ -1,0 +1,29 @@
+Facebook friend recommendation.
+
+
+Enter a filename: facebook_1000_data.txt
+
+
+Enter an integer in the range 0 to 999: 88
+
+The suggested friend for 88 is 213
+
+Do you want to continue (yes/no)? yes
+
+Enter an integer in the range 0 to 999: 20
+
+The suggested friend for 20 is 116
+
+Do you want to continue (yes/no)? yes
+
+Enter an integer in the range 0 to 999: 5
+
+The suggested friend for 5 is 67
+
+Do you want to continue (yes/no)? yes
+
+Enter an integer in the range 0 to 999: 500
+
+The suggested friend for 500 is 559
+
+Do you want to continue (yes/no)? no

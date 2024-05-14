@@ -1,0 +1,31 @@
+Facebook friend recommendation.
+
+
+Enter a filename: xxxxxx
+
+Error in filename.
+
+Enter a filename: small_network_data.txt
+
+
+Enter an integer in the range 0 to 9: abc
+
+Error: input must be an int between 0 and 9
+
+Enter an integer in the range 0 to 9: -1
+
+Error: input must be an int between 0 and 9
+
+Enter an integer in the range 0 to 9: 15
+
+Error: input must be an int between 0 and 9
+
+Enter an integer in the range 0 to 9: 10
+
+Error: input must be an int between 0 and 9
+
+Enter an integer in the range 0 to 9: 0
+
+The suggested friend for 0 is 9
+
+Do you want to continue (yes/no)? nO
